@@ -1,0 +1,32 @@
+{
+  "name": "devfood",
+  "version": "1.0.0",
+  "description": "This is food odering app.",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishant-singh249/devFood.git"
+  },
+  "keywords": [
+    "Javascript",
+    "React",
+    "Redux"
+  ],
+  "author": "Nishant Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishant-singh249/devFood/issues"
+  },
+  "homepage": "https://github.com/nishant-singh249/devFood#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
